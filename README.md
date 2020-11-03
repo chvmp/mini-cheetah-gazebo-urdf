@@ -19,7 +19,7 @@ source devel/setup.bash
 
 1.If you want to browse the robot model
 
-  roslaunch yobo_gazebo demo.launch
+  roslaunch yobotics_gazebo demo.launch
   
 2.You can ues the teleop to control the robot
 
